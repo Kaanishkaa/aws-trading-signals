@@ -76,7 +76,7 @@ Streamlit Dashboard (Real-time Visualization)
 
 -Jupyter / Colab notebooks (exploration, backtesting, sentiment experiments)
 
-Architecture diagram (draw.io / diagrams.net)
+-Architecture diagram (draw.io / diagrams.net)
 
 
 ## 🧩 Problems Faced & How They Were Solved
